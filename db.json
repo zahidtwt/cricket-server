@@ -1,0 +1,340 @@
+{
+  "matches": [
+    {
+      "playerTeam": "india",
+      "computerTeam": "england",
+      "bowlerTeam": "india",
+      "id": 1
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "england",
+      "bowlerTeam": "india",
+      "id": 2
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "england",
+      "bowlerTeam": "india",
+      "id": 3
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "bangladesh",
+      "bowlerTeam": "india",
+      "id": 4
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "england",
+      "bowlerTeam": "india",
+      "id": 5
+    },
+    {
+      "playerTeam": "bangladesh",
+      "computerTeam": "india",
+      "bowlerTeam": "bangladesh",
+      "id": 6
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "bangladesh",
+      "bowlerTeam": "india",
+      "id": 7
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "srilanka",
+      "bowlerTeam": "india",
+      "id": 8
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "bangladesh",
+      "bowlerTeam": "india",
+      "id": 9
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "australia",
+      "bowlerTeam": "india",
+      "id": 10
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "england",
+      "bowlerTeam": "india",
+      "id": 11
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "england",
+      "bowlerTeam": "india",
+      "id": 12
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "bangladesh",
+      "bowlerTeam": "india",
+      "id": 13
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "england",
+      "bowlerTeam": "india",
+      "id": 14
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "bangladesh",
+      "bowlerTeam": "india",
+      "id": 15
+    },
+    {
+      "playerTeam": "india",
+      "computerTeam": "bangladesh",
+      "bowlerTeam": "india",
+      "id": 16
+    },
+    {
+      "playerTeam": "australia",
+      "computerTeam": "pakistan",
+      "bowlerTeam": "australia",
+      "id": 17
+    }
+  ],
+  "matchDetails": [
+    {
+      "bowlerTeam": "india",
+      "firstInTeam": "england",
+      "secondInTeam": "india",
+      "firsrInningsScore": [
+        {
+          "bowl": 1,
+          "score": 6
+        },
+        {
+          "bowl": 2,
+          "score": 1
+        },
+        {
+          "bowl": 3,
+          "score": 2
+        },
+        {
+          "bowl": 4,
+          "score": 2
+        },
+        {
+          "bowl": 5,
+          "score": 6
+        },
+        {
+          "bowl": 6,
+          "score": 3
+        }
+      ],
+      "secondInningsScore": [
+        {
+          "bowl": 7,
+          "score": 3
+        },
+        {
+          "bowl": 8,
+          "score": 1
+        },
+        {
+          "bowl": 9,
+          "score": 1
+        },
+        {
+          "bowl": 10,
+          "score": 6
+        },
+        {
+          "bowl": 11,
+          "score": 1
+        },
+        {
+          "bowl": 12,
+          "score": 6
+        }
+      ],
+      "id": 4
+    },
+    {
+      "bowlerTeam": "india",
+      "firstInTeam": "bangladesh",
+      "secondInTeam": "india",
+      "firsrInningsScore": [
+        {
+          "bowl": 1,
+          "score": 4
+        },
+        {
+          "bowl": 2,
+          "score": 4
+        },
+        {
+          "bowl": 3,
+          "score": 4
+        },
+        {
+          "bowl": 4,
+          "score": 4
+        },
+        {
+          "bowl": 5,
+          "score": 2
+        },
+        {
+          "bowl": 6,
+          "score": 1
+        }
+      ],
+      "secondInningsScore": [
+        {
+          "bowl": 7,
+          "score": 6
+        },
+        {
+          "bowl": 8,
+          "score": 6
+        },
+        {
+          "bowl": 9,
+          "score": 4
+        },
+        {
+          "bowl": 10,
+          "score": 6
+        },
+        {
+          "bowl": 11,
+          "score": 4
+        },
+        {
+          "bowl": 12,
+          "score": 4
+        }
+      ],
+      "id": 5
+    },
+    {
+      "bowlerTeam": "india",
+      "firstInTeam": "bangladesh",
+      "secondInTeam": "india",
+      "firsrInningsScore": [
+        {
+          "bowl": 1,
+          "score": 3
+        },
+        {
+          "bowl": 2,
+          "score": 3
+        },
+        {
+          "bowl": 3,
+          "score": 3
+        },
+        {
+          "bowl": 4,
+          "score": 2
+        },
+        {
+          "bowl": 5,
+          "score": 3
+        },
+        {
+          "bowl": 6,
+          "score": 4
+        }
+      ],
+      "secondInningsScore": [
+        {
+          "bowl": 7,
+          "score": 2
+        },
+        {
+          "bowl": 8,
+          "score": 3
+        },
+        {
+          "bowl": 9,
+          "score": 1
+        },
+        {
+          "bowl": 10,
+          "score": 1
+        },
+        {
+          "bowl": 11,
+          "score": 1
+        },
+        {
+          "bowl": 12,
+          "score": 3
+        }
+      ],
+      "id": 6
+    },
+    {
+      "bowlerTeam": "australia",
+      "firstInTeam": "pakistan",
+      "secondInTeam": "australia",
+      "firsrInningsScore": [
+        {
+          "bowl": 1,
+          "score": 2
+        },
+        {
+          "bowl": 2,
+          "score": 3
+        },
+        {
+          "bowl": 3,
+          "score": 4
+        },
+        {
+          "bowl": 4,
+          "score": 4
+        },
+        {
+          "bowl": 5,
+          "score": 6
+        },
+        {
+          "bowl": 6,
+          "score": 3
+        }
+      ],
+      "secondInningsScore": [
+        {
+          "bowl": 7,
+          "score": 1
+        },
+        {
+          "bowl": 8,
+          "score": 2
+        },
+        {
+          "bowl": 9,
+          "score": 4
+        },
+        {
+          "bowl": 10,
+          "score": 1
+        },
+        {
+          "bowl": 11,
+          "score": 4
+        },
+        {
+          "bowl": 12,
+          "score": 4
+        }
+      ],
+      "id": 7
+    }
+  ]
+}
